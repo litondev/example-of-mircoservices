@@ -1,0 +1,3 @@
+- saga pattern with rest full api 
+- api gateway pattern
+- jwt access token
