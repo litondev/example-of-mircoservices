@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="1175.3311"
-     inkscape:cy="-618.64959"
+     inkscape:zoom="0.0875"
+     inkscape:cx="684.27189"
+     inkscape:cy="1861.2174"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -120,25 +120,25 @@
            sodipodi:role="line">(Api Gateway)</tspan></text>
     </g>
     <g
-       id="g1258">
+       id="g945">
       <rect
-         y="376.74817"
-         x="-811.12671"
+         y="372.47186"
+         x="-783.0957"
          height="139.09525"
          width="145.14285"
          id="rect836-6-5"
          style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          id="text840-7-6"
-         y="561.46887"
-         x="-834.96509"
+         y="557.19257"
+         x="-860.62299"
          style="font-style:normal;font-weight:normal;font-size:33.90526581px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84763163"
          xml:space="preserve"><tspan
            style="stroke-width:0.84763163"
-           y="561.46887"
-           x="-834.96509"
+           y="557.19257"
+           x="-860.62299"
            id="tspan838-5-2"
-           sodipodi:role="line">Flutter (Dart)</tspan></text>
+           sodipodi:role="line">Flutter/RN (Dart/JS)</tspan></text>
     </g>
     <rect
        style="opacity:1;fill:#0eff00;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -685,39 +685,6 @@
            x="1100.7113"
            sodipodi:role="line"
            id="tspan1693-2">- total</tspan></text>
-    </g>
-    <g
-       id="g1912"
-       transform="translate(-6.047619,40.821429)">
-      <rect
-         y="-498.25867"
-         x="-1035.9755"
-         height="49.877586"
-         width="52.046173"
-         id="rect836-6-0-06-2"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.35858583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text1872"
-         y="-448.32983"
-         x="-943.59564"
-         style="font-style:normal;font-weight:normal;font-size:75.93408966px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.89835227"
-         xml:space="preserve"><tspan
-           style="stroke-width:1.89835227"
-           y="-448.32983"
-           x="-943.59564"
-           id="tspan1870"
-           sodipodi:role="line">=</tspan></text>
-      <text
-         id="text1876"
-         y="-460.32275"
-         x="-851.8053"
-         style="font-style:normal;font-weight:normal;font-size:36.36354828px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.90908873"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.90908873"
-           y="-460.32275"
-           x="-851.8053"
-           id="tspan1874"
-           sodipodi:role="line">Docker Container</tspan></text>
     </g>
     <text
        xml:space="preserve"
