@@ -3,8 +3,8 @@
  - Database Sharing
 
 - Communication Pattren 
- - Rpi  (Http,Grpc and other else)
- - Messaging (Message Broker)
+ - Rpi  (Http,Grpc and other else) -> sync usually
+ - Messaging (Message Broker ) -> async usually
 
 - Type Microservice Pattren
  - Stateless
@@ -14,3 +14,18 @@
 - Schmea Communication Pattern 
  - Orchestration (Working With Rpi And Using Argegation Type)
  - Choreography (Working With Message Broker)
+
+- Service Discover Pattern
+ - Service Discover Server (using third partu to load balancer) 
+ - Service Discover Client (using service to load balancer)
+ - Service Registry (List Of Service That Can Be Hit)
+
+- Schema Multi Platform (Website,Mobile)
+ - Backend For Frontend (1 Platform Different Api And Auth)
+ - GrapQl 
+
+- Api Gatway 
+- Auth
+- CQRS (Spliting CRUD to Database => (CREATE,UPDATE,DELETE AND SELECT))
+
+
