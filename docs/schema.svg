@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.061871843"
-     inkscape:cx="-549.39742"
-     inkscape:cy="2264.5538"
+     inkscape:zoom="0.175"
+     inkscape:cx="1175.3311"
+     inkscape:cy="-618.64959"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -288,7 +288,7 @@
          id="tspan838-5-6-3-3"
          x="188.99614"
          y="414.77402"
-         style="stroke-width:0.84763163">Fiber (Golang)</tspan></text>
+         style="stroke-width:0.84763163">Flask (Python)</tspan></text>
     <g
        id="g1326"
        transform="translate(47.908429,-69.547619)">
