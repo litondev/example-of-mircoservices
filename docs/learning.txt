@@ -1,0 +1,16 @@
+- Database Management Pattren 
+ - Database Perserice
+ - Database Sharing
+
+- Communication Pattren 
+ - Rpi  (Http,Grpc and other else)
+ - Messaging (Message Broker)
+
+- Type Microservice Pattren
+ - Stateless
+ - Statefull 
+ - Argegation (Manage Other Service)
+
+- Schmea Communication Pattern 
+ - Orchestration (Working With Rpi And Using Argegation Type)
+ - Choreography (Working With Message Broker)
