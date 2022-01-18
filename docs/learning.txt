@@ -27,5 +27,5 @@
 - Api Gatway 
 - Auth
 - CQRS (Spliting CRUD to Database => (CREATE,UPDATE,DELETE AND SELECT))
-
+- Centralized Configuration
 
